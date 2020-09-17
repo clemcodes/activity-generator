@@ -1,18 +1,33 @@
 /* Global */
-body,html{
-  font-family: "Lucida Grande"; 
-  margin: 0;
-  padding: 0;
-  
-  
-}
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+body{
+  font-family: 'Lucida Grande';
+  min-height: 100vh;
+  padding-bottom: 135px;
+  position: relative;
+}
 
 .heading{
   padding-top:60px;
   padding-bottom:30px;
   color:#5f5d60;
+}
+
+h1,h3,p{
+  color: #5f5d60;
+  
+}
+
+h1{
+  font-size: 30px;
+  padding: 10px;
+}
+
+h3{
+  font-family: 'Sacramento', cursive;
 }
 
 /* main */
