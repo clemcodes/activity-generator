@@ -62,28 +62,3 @@ main{
 .random img{
   width: 330px;
 }
-
-
-/* footer */
-
-footer {
-  margin-top:80px;
-}
-  
-
-.attribution{
-  text-align: center;
-  font-family: 'Lucida Grande';
-  font-size:13px;
-}
-
-.attribution a{
-  color:#f37584;
-  text-decoration:none;
-}
-
-.attribution a:hover{
-  color:#f50057;
-  text-decoration:underline;
-}
-
