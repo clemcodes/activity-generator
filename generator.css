@@ -67,23 +67,23 @@ main{
 /* footer */
 
 footer {
-  margin-top:50;
+  margin-top:50px;
 }
   
 
 .attribution{
-  text-align: center;
+  text-align: right;
   font-family: 'Lucida Grande';
+  font-size:13px;
 }
 
 .attribution a{
-  color:#F05365;
+  color:#f37584;
   text-decoration:none;
 }
 
 .attribution a:hover{
-  color:#F05365;
-  opcaity:0.7;
+  color:#f50057;
   text-decoration:underline;
 }
 
