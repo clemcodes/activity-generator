@@ -66,11 +66,24 @@ main{
 
 /* footer */
 
+footer {
+  margin-top:50;
+}
+  
+
 .attribution{
   text-align: center;
-  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-family: 'Lucida Grande';
 }
 
 .attribution a{
   color:#F05365;
+  text-decoration:none;
 }
+
+.attribution a:hover{
+  color:#F05365;
+  opcaity:0.7;
+  text-decoration:underline;
+}
+
